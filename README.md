@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=200&section=header&text=Mary%20Amadi&fontSize=40&fontColor=ffffff" />
 <h1 align="center">Hi 👋, I'm Mary Amadi</h1>
 <h3 align="center">Full-Stack Software Engineer | React • Next.js •  Vite • TypeScript • Node.js • PostgreSQL</h3>
 <h4 align="center">API Design • Database Architecture • Scalable Systems</h4>
@@ -36,7 +37,7 @@ I'm driven by solving meaningful technical problems and contributing to teams th
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://x.com/OkaforVincy?t=3eQq7pdE8KwNLs_akPmwxw&s=09" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
 <p align="center">
