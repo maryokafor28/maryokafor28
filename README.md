@@ -42,7 +42,7 @@ I'm driven by solving meaningful technical problems and contributing to teams th
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://x.com/OkaforVincy?t=3eQq7pdE8KwNLs_akPmwxw&s=09" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
 <p align="center">
