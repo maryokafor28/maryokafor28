@@ -18,7 +18,12 @@ I care about the full picture: how data flows, how systems scale, and how to shi
 
 I'm driven by solving meaningful technical problems and contributing to teams that value innovation, scalability, and engineering excellence.
 
+---
 
+### 💼 Featured Projects
+
+- **[Payment Platform](https://github.com/maryokafor28/Payment-platform)** *(WIP)* — Secure, scalable payment platform built with a microservices architecture: auth, payments, real-time notifications & support services. `Node.js/TypeScript` `PostgreSQL` `Redis` `RabbitMQ` `Docker`
+- **[PulseTrack](https://pulsetrack-frontend-drab.vercel.app/)** *([backend repo](https://github.com/maryokafor28/pulsetrack-backend))* — Healthcare management platform with JWT auth, role-based access control, and CRUD for users, doctors & appointments. React/TypeScript frontend + Node.js/Express backend. `React` `TypeScript` `Node.js` `Express`
 ---
 
 ###  Tech Stack
@@ -37,7 +42,7 @@ I'm driven by solving meaningful technical problems and contributing to teams th
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://x.com/OkaforVincy?t=3eQq7pdE8KwNLs_akPmwxw&s=09" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logoColor=white" />
   </a>
 </p>
 <p align="center">
