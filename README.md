@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mary Amadi</h1>
-<h3 align="center">Full-Stack Software Engineer | React • Next.js •  Vite • TypeScript • Node.js • PostgreSQL</h3>
+<h3 align="center">Full-Stack Software Developer | React • Next.js •  Vite • TypeScript • Node.js • PostgreSQL</h3>
 <h4 align="center">API Design • Database Architecture • Scalable Systems</h4>
 
 <p align="center">
