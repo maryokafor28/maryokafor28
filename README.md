@@ -27,7 +27,8 @@ I'm driven by solving meaningful technical problems and contributing to teams th
 
 ---
 
-### 🌐 Connect With Me
+###  🌐 Connect with Me, Let's Build Together
+
 <p align="center">
   <a href="https://www.linkedin.com/in/mary-amadi-496a94206" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
