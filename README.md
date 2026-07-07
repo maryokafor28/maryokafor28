@@ -28,7 +28,7 @@ I'm driven by solving meaningful technical problems and contributing to teams th
 
 ###  Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,mongodb,prisma,docker,tailwind,git,github,figma)
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,vite,express,postgres,mongodb,prisma,docker,tailwind,git,github,figma)
 
 ---
 
