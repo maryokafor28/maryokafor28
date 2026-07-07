@@ -10,7 +10,7 @@
 
 ###  About Me
 
-I'm a Full-Stack Software Engineer who builds scalable, end-to-end web applications — from responsive React/Next.js interfaces to robust Node.js APIs and well-architected databases.
+I'm a Full-Stack Software Developer who builds scalable, end-to-end web applications — from responsive React/Next.js interfaces to robust Node.js APIs and well-architected databases.
 
 On the **frontend**, I focus on clean, responsive UIs with React, Next.js, and TailwindCSS. On the **backend**, I design efficient APIs, model data across PostgreSQL and MongoDB, and build systems that stay reliable under real-world load.
 
