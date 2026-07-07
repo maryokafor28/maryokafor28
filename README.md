@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=200&section=header&text=Mary%20Amadi&fontSize=40&fontColor=ffffff" />
 <h1 align="center">Hi 👋, I'm Mary Amadi</h1>
 <h3 align="center">Full-Stack Software Engineer | React • Next.js •  Vite • TypeScript • Node.js • PostgreSQL</h3>
 <h4 align="center">API Design • Database Architecture • Scalable Systems</h4>
