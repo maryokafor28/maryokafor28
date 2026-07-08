@@ -45,6 +45,3 @@ I'm driven by solving meaningful technical problems and contributing to teams th
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maryokafor28&color=blue" alt="Profile views" />
-</p>
