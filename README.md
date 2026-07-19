@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mary Amadi</h1>
-<h3 align="center">Full-Stack Software Developer | React • Next.js •  Vite • TypeScript • Node.js • PostgreSQL</h3>
+
+###  Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,vite,express,postgres,mongodb,prisma,docker,tailwind,git,github,figma)
+
 
 ---
 
@@ -21,9 +25,6 @@ I'm driven by solving meaningful technical problems and contributing to teams th
 - **[PulseTrack](https://pulsetrack-frontend-drab.vercel.app/)** *([backend repo](https://github.com/maryokafor28/pulsetrack-backend))* — Healthcare management platform with JWT auth, role-based access control, and CRUD for users, doctors & appointments. React/TypeScript frontend + Node.js/Express backend. `React` `TypeScript` `Node.js` `Express`
 ---
 
-###  Tech Stack
-
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,vite,express,postgres,mongodb,prisma,docker,tailwind,git,github,figma)
 
 ---
 
