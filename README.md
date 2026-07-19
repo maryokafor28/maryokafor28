@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mary Amadi</h1>
 <h3 align="center">Full-Stack Software Developer | React • Next.js •  Vite • TypeScript • Node.js • PostgreSQL</h3>
-<h4 align="center">API Design • Database Architecture • Scalable Systems</h4>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+scalable+end-to-end+web+applications;Designing+resilient+API+%26+database+architectures;Passionate+about+clean%2C+maintainable+code" alt="Typing SVG" />
-</p>
 
 ---
 
