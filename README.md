@@ -23,7 +23,7 @@ I'm driven by solving meaningful technical problems and contributing to teams th
 
 - **[Payment Platform](https://github.com/maryokafor28/Payment-platform)** *(WIP)* — Secure, scalable payment platform built with a microservices architecture: auth, payments, real-time notifications & support services. `Node.js/TypeScript` `PostgreSQL` `Redis` `RabbitMQ` `Docker`
   
-- **[WaveCom Notification Delivery System ](https://github.com/maryokafor28/wavecom-backend) 🔗 **Live:** [http://wavecom.maryamadi.com](http://wavecom.maryamadi.com) *(HTTPS pending)* -A scalable, fault-tolerant notification delivery system for transactional notifications (email, SMS, and push), built with a stateless, horizontally-scaled API layer, async queue-based processing, and pluggable real/mock provider integrations.
+- **[WaveCom Notification Delivery System ](https://github.com/maryokafor28/wavecom-backend)** 🔗 **Live:** [http://wavecom.maryamadi.com](http://wavecom.maryamadi.com) *(HTTPS pending)* -A scalable, fault-tolerant notification delivery system for transactional notifications (email, SMS, and push), built with a stateless, horizontally-scaled API layer, async queue-based processing, and pluggable real/mock provider integrations.
 Try it: `GET http://wavecom.maryamadi.com/health`
 ---
 
